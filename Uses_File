@@ -1,0 +1,23 @@
+For React server 
+---> Node JS Version 17.2 
+----> NPM 8.7 
+----> NVM 
+
+
+npm ci 
+
+npm start 
+
+for port 80 you can use Nginx proxy server 
+
+
+For backend server ----> 
+
+java ---17.0 
+maven 
+
+mvn install -f pom.xml 
+
+jar in target folder 
+
+java -jar jar_name 
